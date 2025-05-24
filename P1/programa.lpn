@@ -1,0 +1,7 @@
+PROGRAMA "Mult":
+INICIO
+a = 2
+b = 3
+c = 4
+RES = a + b * c
+FIM
